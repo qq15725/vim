@@ -1,4 +1,5 @@
-plugged
-.idea
 .DS_Store
 .netrwhist
+.idea
+plugged
+cache
